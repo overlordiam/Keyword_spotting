@@ -11,7 +11,14 @@ This project presents a comprehensive comparison between discrete and continuous
 ### Discrete Audio Tokens:
 - EnCodec
 - Discrete Autoencoder Codec (DAC)
-
+### Feed-forward architectures
+- XVector
+- RNN
+- LSTM
+- GRU
+- Transformers
+- CRDNN
+  
 ### Loss function: Negative Log Likelihood
 
 ### Task: Keyword Spotting
